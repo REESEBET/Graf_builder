@@ -1,0 +1,26 @@
+﻿  builder_graf.cpp
+C:\Users\HP\Desktop\ravesli c++\C++\builder_graf\builder_graf\builder_graf.cpp(38,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\HP\Desktop\ravesli c++\C++\builder_graf\builder_graf\builder_graf.cpp(38,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\HP\Desktop\ravesli c++\C++\builder_graf\builder_graf\builder_graf.cpp(39,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\HP\Desktop\ravesli c++\C++\builder_graf\builder_graf\builder_graf.cpp(39,17): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\HP\Desktop\ravesli c++\C++\builder_graf\builder_graf\builder_graf.cpp(40,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\HP\Desktop\ravesli c++\C++\builder_graf\builder_graf\builder_graf.cpp(40,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\HP\Desktop\ravesli c++\C++\builder_graf\builder_graf\builder_graf.cpp(41,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\HP\Desktop\ravesli c++\C++\builder_graf\builder_graf\builder_graf.cpp(41,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\HP\Desktop\ravesli c++\C++\builder_graf\builder_graf\builder_graf.cpp(42,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\HP\Desktop\ravesli c++\C++\builder_graf\builder_graf\builder_graf.cpp(42,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\HP\Desktop\ravesli c++\C++\builder_graf\builder_graf\builder_graf.cpp(136,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\Desktop\ravesli c++\C++\builder_graf\builder_graf\builder_graf.cpp(139,40): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\Desktop\ravesli c++\C++\builder_graf\builder_graf\builder_graf.cpp(141,168): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\HP\Desktop\ravesli c++\C++\builder_graf\builder_graf\builder_graf.cpp(141,119): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\HP\Desktop\ravesli c++\C++\builder_graf\builder_graf\builder_graf.cpp(141,75): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\HP\Desktop\ravesli c++\C++\builder_graf\builder_graf\builder_graf.cpp(141,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\HP\Desktop\ravesli c++\C++\builder_graf\builder_graf\builder_graf.cpp(156,36): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\HP\Desktop\ravesli c++\C++\builder_graf\builder_graf\builder_graf.cpp(176,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\Desktop\ravesli c++\C++\builder_graf\builder_graf\builder_graf.cpp(193,19): warning C4101: old_brush: неиспользованная локальная переменная
+C:\Users\HP\Desktop\ravesli c++\C++\builder_graf\builder_graf\builder_graf.cpp(193,12): warning C4101: brush: неиспользованная локальная переменная
+C:\Users\HP\Desktop\ravesli c++\C++\builder_graf\builder_graf\builder_graf.cpp(192,10): warning C4101: pen: неиспользованная локальная переменная
+C:\Users\HP\Desktop\ravesli c++\C++\builder_graf\builder_graf\builder_graf.cpp(192,15): warning C4101: old_pen: неиспользованная локальная переменная
+C:\Users\HP\Desktop\ravesli c++\C++\builder_graf\builder_graf\builder_graf.cpp(313,38): warning C4302: приведение типов: усечение из "LPWSTR" к "WORD"
+C:\Users\HP\Desktop\ravesli c++\C++\builder_graf\builder_graf\builder_graf.cpp(318,45): warning C4302: приведение типов: усечение из "LPWSTR" к "WORD"
+  builder_graf.vcxproj -> C:\Users\HP\Desktop\ravesli c++\C++\builder_graf\Debug\builder_graf.exe
